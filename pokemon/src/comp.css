@@ -1,0 +1,28 @@
+*{
+    background-color: #bddae1;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* .box{
+    width: 100%;
+    border: 2px solid red;
+} */
+.select{
+    color: gray;
+    background-color: #88d8ec;
+    border-radius: 4px;
+    font-size: 1.5rem;
+    width: 4rem;
+    border: 2px solid #059fc5;
+    outline: none;
+    margin-top: 3rem;
+    margin-left: 46%;
+    
+}
+.first-heading{
+    margin-top: 1.2rem;
+}
+h1{
+    text-align: center;
+}
