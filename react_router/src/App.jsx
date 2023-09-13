@@ -1,14 +1,5 @@
-import React from 'react'
-import Heading from './Heading'
-import Para from './Para'
-import List from './List'
-function App(){
-    return (
-        <>
-            <Heading/>
-            <Para/>
-            <List/>
-        </>
-    )
+import React from "react";
+function App() {
+  return <></>;
 }
 export default App;
