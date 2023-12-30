@@ -21,6 +21,9 @@ const CreateNote = (props) => {
   };
 
   const addEvent = () => {
+    if (note.title === "" || note.content === "") {
+      return;
+    }
     props.passNote(note);
     setNote({
       title: "",
